@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Créer des profils cibles ou “buyer personas” pour votre boutique en ligne</title>
+    <link>https://www.prestashop.com/fr/blog/profils-cibles-buyer-personas</link>
+    <description>Connaître et identifier ses prospects est l’un des piliers fondamentaux de votre business. Qui sont vos clients ? Quels sont leurs centres d’intérêt ?</description>
+     <pubDate>Fri, 02 Aug 2019 11:30:49 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/profils-cibles-buyer-personas</guid>
+  </item>
+  <item>
+    <title>5 raisons de créer un blog pour votre site e-commerce (et attirer du trafic)</title>
+    <link>https://www.prestashop.com/fr/blog/5-raisons-de-creer-un-blog</link>
+    <description>De nombreux e-marchands créent un blog sur leur boutique puis abandonnent au bout de quelques mois.
+Vous vous demandez sûrement pourquoi ?</description>
+     <pubDate>Wed, 31 Jul 2019 10:46:55 +0200</pubDate>
+ <dc:creator>Eraclès</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/5-raisons-de-creer-un-blog</guid>
+  </item>
+  <item>
+    <title>DSP 2 : prochaine échéance le 14 septembre 2019</title>
+    <link>https://www.prestashop.com/fr/blog/directive-europeenne-services-de-paiements</link>
+    <description>Dès la rentrée, les nouvelles règles d’authentification forte entreront en application.</description>
+     <pubDate>Tue, 30 Jul 2019 17:05:59 +0200</pubDate>
+ <dc:creator>Camille Silhol</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/directive-europeenne-services-de-paiements</guid>
+  </item>
+  <item>
+    <title>Quelles relations entre PrestaShop, sa communauté et ses partenaires ?</title>
+    <link>https://www.prestashop.com/fr/blog/priorisation-projets-prestashop</link>
+    <description>PrestaShop est une solution e-commerce open source, accessible à tous, conçue pour créer rapidement un site marchand performant et fiable.</description>
+     <pubDate>Mon, 29 Jul 2019 11:09:36 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/priorisation-projets-prestashop</guid>
+  </item>
+  <item>
+    <title>Les secrets du storytelling pour capter l’attention des visiteurs</title>
+    <link>https://www.prestashop.com/fr/blog/storytelling-capter-visiteurs</link>
+    <description>Les histoires font vendre, c’est un fait. Le secteur du marketing l’a bien compris et use de plus en plus de ce concept.</description>
+     <pubDate>Fri, 26 Jul 2019 10:10:36 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/storytelling-capter-visiteurs</guid>
+  </item>
+  <item>
+    <title>La livraison à l’internationale</title>
+    <link>https://www.prestashop.com/fr/blog/livraison-internationale</link>
+    <description>La livraison à l’internationale exigent de la planification, de la patience et pas mal de de formalités administratives.</description>
+     <pubDate>Wed, 24 Jul 2019 10:54:47 +0200</pubDate>
+ <dc:creator>ShipStation Fr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/livraison-internationale</guid>
+  </item>
+  <item>
+    <title>Pourquoi les acheteurs mobiles préfèrent-ils un processus de paiement simplifié ?</title>
+    <link>https://www.prestashop.com/fr/blog/paiement-mobile-simplifie</link>
+    <description>L’arrivée des smartphones a chamboulé les habitudes d’achat des e-shoppers.</description>
+     <pubDate>Mon, 22 Jul 2019 10:15:31 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/paiement-mobile-simplifie</guid>
+  </item>
+  <item>
+    <title>Le Design System, la boîte de Lego de votre site</title>
+    <link>https://www.prestashop.com/fr/blog/design-system-site-web</link>
+    <description>La magie des Legos a toujours été de pouvoir construire tout et n’importe quoi avec seulement quelques briques de base.</description>
+     <pubDate>Fri, 19 Jul 2019 12:16:16 +0200</pubDate>
+ <dc:creator>Wexperience</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/design-system-site-web</guid>
+  </item>
+  <item>
+    <title>3 éléments essentiels pour être plus visible sur Amazon</title>
+    <link>https://www.prestashop.com/fr/blog/mieux-visible-amazon</link>
+    <description>Parce qu’il faut multiplier ses canaux de vente et ne pas se contenter de son site web, Il est aujourd’hui intéressant de coupler les ventes sur un site Prestashop avec une présence sur les places </description>
+     <pubDate>Thu, 18 Jul 2019 15:44:39 +0200</pubDate>
+ <dc:creator>iziflux</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/mieux-visible-amazon</guid>
+  </item>
+  <item>
+    <title>Quels indicateurs suivre pour mesurer la satisfaction client ?</title>
+    <link>https://www.prestashop.com/fr/blog/mesurer-satisfaction-client</link>
+    <description>La satisfaction client est une priorité absolue pour n’importe quel e-commerçant permettant de garantir le développement et la pérennité de son entreprise.</description>
+     <pubDate>Wed, 17 Jul 2019 10:16:47 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/mesurer-satisfaction-client</guid>
+  </item>
+  </channel>
+</rss>
